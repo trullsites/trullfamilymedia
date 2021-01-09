@@ -3,9 +3,13 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading"><strong>{{ page.title }}</strong></h1>
-  {%- endif -%}
+    {%- if page.username -%}
+        <h1 class="page-heading">Hello {{ page.username }}</h1>
+    {%- endif -%}
+  
+    {%- if page.title -%}
+        <h1 class="page-heading"><strong>{{ page.title }}</strong></h1>
+    {%- endif -%}
 
   {{ content }}
 
