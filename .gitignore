@@ -1,0 +1,6 @@
+_site
+.history
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
