@@ -6,7 +6,7 @@ permalink: /news/
 
 {% for newsletter in site.news %}
   <h2>
-    <a href="{{site.url}}{{ newsletter.url }}">
+    <a href="{{host}}{{port}}{{site.baseurl}}{{ newsletter.url }}">
       {{ newsletter.name }}
     </a>
   </h2>
