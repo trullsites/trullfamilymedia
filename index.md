@@ -2,8 +2,10 @@
 layout: home
 title: Home
 permalink: /
+username: Jeremy
 ---
 
 # Welcome to my Index Page
 
-I will add an about us link
+Is my blog available?
+[Blog](/trullfamilymedia/blog)
