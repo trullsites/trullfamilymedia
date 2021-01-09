@@ -7,4 +7,4 @@ permalink: /
 # Welcome to my Index Page
 
 Is my blog available?
-[Blog](/blog)
+[Blog](/trullfamilymedia/blog)
