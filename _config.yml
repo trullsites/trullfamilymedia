@@ -22,8 +22,8 @@ title: Welcome to the media Site
 email: jeremy@thetrull5.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is just a simple test site to learn Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "trullfamilymedia" # the subpath of your site, e.g. /blog
+url: "https://trullsites.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
